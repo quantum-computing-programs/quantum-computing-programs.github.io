@@ -1,1 +1,1 @@
-# -quantum-computing-programs-.github.io
+# Graduate and Post-graduate programs in Quantum Computing
