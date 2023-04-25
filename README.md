@@ -5,6 +5,7 @@
 
 ## Ireland
 [Quantum Science and Technology (M.Sc. / P.Grad.Dip) at Trinity College Dublin, The University of Dublin](https://www.tcd.ie/courses/postgraduate/courses/quantum-science-and-technology-msc--pgraddip/)
+[Professional Diploma Quantum Engineering at  University College Dublin](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=T382)
 
 ## Australia
 [Master of Quantum Technology at The University of Queensland Australia](https://study.uq.edu.au/study-options/programs/master-quantum-technology-5711)
