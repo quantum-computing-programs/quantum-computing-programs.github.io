@@ -29,8 +29,13 @@
 1. [Quantum Technologies MSc at University College London](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/quantum-technologies-msc)
 1. [Optical Sciences (MS) – Quantum Information Science and Engineering at Univeristy of Arizona](https://grad.arizona.edu/catalog/programinfo/OPTIMSQISE)
 
+
 ## France
 1. [Master of Quantum Science and Technology at Université PSL](https://psl.eu/en/education/master-s-quantum-engineering)
 
 ## Denmark
 1. [Master of Science (MSc) in Quantum Information Science at University of Copenhagen](https://studies.ku.dk/masters/quantum-information-science/)
+
+## Reference
+1. [Masters in Quantum Computing](masters-in-quantum-computing.md)
+##
