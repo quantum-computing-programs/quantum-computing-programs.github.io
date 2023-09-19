@@ -38,4 +38,3 @@
 
 ## Reference
 1. [Masters in Quantum Computing](masters-in-quantum-computing.md)
-##
