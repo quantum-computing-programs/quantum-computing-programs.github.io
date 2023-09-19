@@ -38,5 +38,6 @@
 
 ## Reference
 1. [Masters in Quantum Computing](masters-in-quantum-computing.md)
-2. [Quantum Computing vs. Quantum Engineering](quantum-computing-vs-quantum-engineering.md)
+2. [Masters in Quantum Engineering](masters-in-quantum-engineering.md)
+3. [Quantum Computing vs. Quantum Engineering](quantum-computing-vs-quantum-engineering.md)
 
