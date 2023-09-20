@@ -41,4 +41,5 @@
 2. [Masters in Quantum Engineering](masters-in-quantum-engineering.md)
 3. [Masters in Quantum Technology](masters-in-quantum-technology.md)
 4. [Quantum Computing vs. Quantum Engineering](quantum-computing-vs-quantum-engineering.md)
+5. [Quantum Computing vs. Quantum Technology](quantum-computing-vs-quantum-technology.md)
 
