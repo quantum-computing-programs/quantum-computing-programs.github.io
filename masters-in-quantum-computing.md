@@ -9,3 +9,6 @@ A Masters in Quantum Computing typically covers the following topics:
 4. Quantum applications and research: the current and potential applications of quantum technology in various domains, such as cryptography, machine learning, optimization, simulation, metrology, and chemistry.
 
 A Masters in Quantum Computing usually requires a bachelor's degree in physics, mathematics, computer science, engineering, or a related field. Some programs may also require prior knowledge of linear algebra, calculus, differential equations, programming languages, and classical algorithms. Depending on the program, a Masters in Quantum Computing may take one to two years to complete and may involve coursework, projects, exams, and a thesis or dissertation.
+
+
+Checkout [Graduate Programs in Quantum Computing](README.md)
