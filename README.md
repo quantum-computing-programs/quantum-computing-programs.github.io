@@ -13,7 +13,7 @@
 
 ## Switzerland
 1. [Master in Quantum Engineering at Eidgenössische Technische Hochschule (ETH) Zürich](https://master-qe.ethz.ch/)
-1. [Master in Quantum Science and Engineering](https://www.epfl.ch/schools/sections/quantum-science-and-engineering/master-program/)
+1. [Master in Quantum Science and Engineering at EPFL](https://www.epfl.ch/schools/sections/quantum-science-and-engineering/master-program/)
 
 ## Spain
 1. [Master in Quantum Technologies and Engineering at Charles III University of Madrid (Universidad Carlos III de Madrid](https://www.uc3m.es/master/quantum-technologies-engineering#home)
@@ -29,7 +29,7 @@
 1. [Quantum Computing M.S. at Univeristy of Rhode Island](https://www.uri.edu/programs/program/quantum-computing-m-s/)
 1. [Physics: Quantum Computing, M.S. at Univeristy of Wisconson Madison](https://guide.wisc.edu/graduate/physics/physics-ms/physics-quantum-computing-ms/#text)
 1. [Optical Sciences (MS) – Quantum Information Science and Engineering at Univeristy of Arizona](https://grad.arizona.edu/catalog/programinfo/OPTIMSQISE)
-1. [Master in Quantum Science and Technology(MS)](https://quantum.engineering.columbia.edu/)
+1. [Master in Quantum Science and Technology(MS) at Columbia University](https://quantum.engineering.columbia.edu/)
 
 
 ## France
